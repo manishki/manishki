@@ -1,16 +1,50 @@
-### Hi there 👋
+# Manish Kumar Choudhary
+### Senior System Engineer
+💬 I'm a software engineer specialized in devops, SRE, backend as well as frontend development for complex scalable web applications. I write about software development on my [blog](http://manish.guru/blog-home). Want to know how I may help your project? Check out my [online resume](http://manish.guru/resume).
 
-<!--
-**manishki/manishki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I do
+I have more than 7 years' experience building and managing the software for clients all over the world.During these years, I got opportunists to work with different phase of software development life cycle.
+Below is a quick overview of my main technical roles I worked on. Want to find out more about my experience? Check out my [online resume](http://manish.guru/resume). 
+# Site Reliability Engineering
+In my current role I am working as a Site Reliability Engineering and I usually do following task.
+| Monitoring                                                                                                                                                                                     | Self-healing                                                                                                                                             | Investigations                                                                                                                                | Quality                                                                                                                                                                |
+|                                                                                                                                                                                                |                                                                                                                                                          |                                                                                                                                               |                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Monitoring                                                                                                                                                                                     | Self-healing                                                                                                                                             | Investigations                                                                                                                                | Quality                                                                                                                                                                |
+| Datadog and Logstash for logging and metrics. Icinga dashboards with custom plugins. CloudWatch alarms for urgent notifications. Built a public API for third-parties to monitor our platform. | Deployed services with application health checks. Unhealthy instances are automatically terminated and replaced. High uptime without human intervention. | Took responsibility for reviewing post-mortem alerts from unhealthy services and investigating failures.Wrote and published incident reports. | Evangelized quality of log messages to aid troubleshooting. Promoted a common set of metrics for the platform so that requests could be tracked and services compared. |
+# Infrastructure Engineering
+One of my previous role, I use to work as Infrastructure Engineering and my daily task includes.
+|                                                                                                                                       |                                                                                                                                         |                                                                                                                              |                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Infrastructure as Code                                                                                                                | Languages                                                                                                                               | Containerization                                                                                                             | Automation                                                                                                                    |
+| Designed and built infrastructure as code for a scaling, resilient, multi region financial platform primarily in Amazon Web Services. | Golang, Python, TypeScript in Node.js, and .NET Core. Templating with CloudFormation and Terraform. Scripting with Bash and PowerShell. | Build and Deploy micro services container using Docker, kubernetes in AWS cloud and also designed the CI/CD pipeline for it. | Engaged with co-pilots to verify my work in real-time. Ensured documentation for the change was complete, correct and shared. |
+# Continuous Integration / Deployment
+I also have a very good real time work esperance to work with Continuous Integration / Deployment. I am expert level esperance on.
+|                                                                                                      |                                                                               |                                                                                                                                 |                                                                                |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Orchestration                                                                                        | Code pipelines                                                                | Database pipelines                                                                                                              | Source control                                                                 |
+| GitLab CI, Jenkins and AWS CodePipeline. Orchestrated with Gulp, Grunt, Bash, PowerShell and Python. | Created pipelines for .NET, Golang, TypeScript, Python, and Lambda Functions. | Developed Python scripts to deploy secure databases and schema updates. Developed SQL scripts and strategies for multi-tenancy. | Love GitHub and GitLab. Experience with Team Foundation Server / Azure DevOps. |
+# Fullstack Dotnet Developer
+Lightning-fast, exacting .NET developer with 5+ years of experience. Skilled in Dotnet Core, Web API, ASP.NET MVC, and client-side web development. As fullstack developer at Thomson Reuters, worked on 20+ micro-services based applications with SQL database design.
+|                                                                                        |                                                                     |                                                                              |                                                              |
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+| C# & DotNet Core                                                                       | React & TypeScript                                                  | Node.js                                                                      | npm, Gulp & Grunt                                            |
+| Worked in an Agile team of .NET developers for a fast-paced software development firm. | Worked on real time web application written in React and Typescript | Having good knowledge and understanding of writing micro-services in Node.js | Having good esperance on task runner like npm, Gulp & Grunt. |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Hitachi Vatara
+- 🌱 I’m currently learning GCP and Azure
+- 👯 I’m looking to collaborate on dotnet core and AWS
+- 🤔 I’m looking for help with AWS
+- 📫 How to reach me: [Email](mailto:manishki@live.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have half mind but it's full crake 
+
+
+### 📫 How to reach me? 
+
+  ⦿ Visit my [Website](http://manish.guru/) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-kumar-choudhary/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/manishkrch) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:manishki@live.com) 💌 <br>
